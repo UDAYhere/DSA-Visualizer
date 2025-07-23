@@ -1,0 +1,11 @@
+.visualizer-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 420px;
+  margin: 32px auto 0 auto;
+  max-width: 900px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  padding: 16px 0;
+} 
